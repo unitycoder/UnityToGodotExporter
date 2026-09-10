@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/VibeCoded-100%25-green" alt="AI Generated Content"/>
+
 # UnityToGodotExporter
 
 This is ONLY meant for (ex) Unity Industry customers! *For non-industry users, Unity is still the best.<br>
@@ -6,6 +8,8 @@ Reasons: https://discussions.unity.com/t/questions-about-unity-industry-runtime-
 ### Pull Requests
 
 Are welcome, i'm out of tokens!! : )
+Goal is to make 1 click exporter for as much stuff that it can handle.
+And later add Ollama/OpenAI support for converting scripts and other logic perhaps?
 
 ### Images
 

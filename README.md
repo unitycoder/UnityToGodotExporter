@@ -35,7 +35,7 @@ that need no LLM.
 **Package Manager → Add package from git URL**
 
 ```
-com.unitycoder.godotexporter": "https://github.com/unitycoder/UnityToGodotExporter.git
+https://github.com/unitycoder/UnityToGodotExporter.git
 ```
 
 **Or from disk:** Package Manager → Add package from disk… → pick `package.json`.

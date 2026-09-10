@@ -43,7 +43,7 @@ https://github.com/unitycoder/com.unitycoder.godotexporter.git
 **Or manually:** add to `Packages/manifest.json`
 
 ```json
-"com.unitycoder.godotexporter": "https://github.com/unitycoder/com.unitycoder.godotexporter.git"
+"com.unitycoder.godotexporter": "https://github.com/unitycoder/UnityToGodotExporter.git"
 ```
 
 Requires Unity 2021.3 or newer. Editor-only assembly, nothing ships in a build.

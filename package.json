@@ -1,0 +1,22 @@
+{
+  "name": "com.unitycoder.godotexporter",
+  "version": "0.1.0",
+  "displayName": "Godot Exporter",
+  "description": "Exports Unity scenes into an engine-agnostic intermediate representation (JSON + copied assets) for import into Godot or Redot. Handles the mechanical tier only: hierarchy, transforms, meshes, materials, colliders, cameras, lights and audio. Scripts are not converted; everything unsupported is listed in an HTML report instead of being silently dropped.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/unitycoder/com.unitycoder.godotexporter",
+  "changelogUrl": "https://github.com/unitycoder/com.unitycoder.godotexporter/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/unitycoder/com.unitycoder.godotexporter/blob/main/LICENSE.md",
+  "keywords": [
+    "godot",
+    "redot",
+    "export",
+    "converter",
+    "migration",
+    "pipeline"
+  ],
+  "author": {
+    "name": "UnityCoder"
+  },
+  "hideInEditor": false
+}
